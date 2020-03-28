@@ -1,0 +1,30 @@
+{
+	"category": "launguages",
+	"name": "JavaScript",
+	"questions": [
+		{
+			"anwsers": [
+				"JavaS",
+				"JS",
+				"JokeS",
+				"JScript"
+			],
+			"correct": "JS",
+			"level": 0,
+			"reason": "<b>J</b>ava<b>S</b>cript",
+			"text": "What is short for 'JavaScript'?"
+		},
+		{
+			"anwsers": [
+				"It looks cool",
+				"It creates a new local namespace",
+				"Prevent code stealing",
+				"Your code<br>will run<br>faster"
+			],
+			"correct": "It creates a new local namespace",
+			"level": 1,
+			"reason": "Creating a new namespace for your program will prevent accidental override of another variable from ex. other modules that you might be using",
+			"text": "Why would wrap an entire content of a JavaScript file in a function block?"
+		}
+	]
+}
